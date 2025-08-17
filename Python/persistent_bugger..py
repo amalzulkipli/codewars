@@ -1,3 +1,4 @@
+# my solution
 def persistence(n):
     count = 0
     while len(str(abs(n))) > 1:

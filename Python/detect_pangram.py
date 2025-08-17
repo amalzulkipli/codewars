@@ -1,3 +1,4 @@
+# my solution
 def is_pangram(st):
     lowercased = st.lower() 
     for letter in "abcdefghijklmnopqrstuvwxyz":
