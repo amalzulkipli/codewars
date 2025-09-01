@@ -1,3 +1,4 @@
+# my solution
 def digitize(n):
 
     if n == 0:
@@ -8,3 +9,8 @@ def digitize(n):
     reversed_digits = [int(digit) for digit in s[::-1]]
     
     return reversed_digits
+
+
+# better pythonic
+def digitize(n):
+    return [int(x) for x in str(n)[::-1]]
