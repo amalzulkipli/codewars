@@ -1,42 +1,23 @@
-# Codewars Solutions
 
-This repository contains my solutions to various Codewars kata problems, organized by programming language.
+# My Codewars Kata Solutions
 
-## Repository Structure
+This repo is just a dump of my Codewars kata answers. I solve problems in Python and JavaScript, and I add new files whenever I finish a kata I like or want to keep for reference.
 
-```
-codewars/
-├── python/          # Python solutions
-├── javascript/      # JavaScript solutions (coming soon)
-├── java/           # Java solutions (coming soon)
-└── ...             # Other languages as I explore them
-```
+## Folder Structure
 
-## About Codewars
+- `Python/` — Python solutions
+- `JavaScript/` — JavaScript solutions
 
-[Codewars](https://www.codewars.com) is a coding practice platform where developers can improve their skills by solving coding challenges called "kata". Each kata has a difficulty level (kyu), with 8 kyu being beginner-friendly and 1 kyu being extremely challenging.
 
-## Language Folders
+Each file is named after the kata. No extra folders, no difficulty sorting.
 
-Each language folder contains:
-- Solutions organized by difficulty level or problem type
-- Clean, readable code with meaningful variable names
-- Comments explaining complex algorithms where necessary
+## Why?
 
-## Progress Tracking
+I use this repo to keep track of my progress and revisit old problems. If you find something useful, cool. If not, that's fine too. LOL
 
-This repository serves as my personal journey through Codewars challenges. Feel free to browse the solutions, but I encourage you to attempt the problems yourself first!
+## Note
 
-## Getting Started
-
-1. Visit [Codewars](https://www.codewars.com) to create an account
-2. Start with 8 kyu problems to build fundamentals
-3. Work your way up to more challenging kata
-4. Practice consistently to improve your problem-solving skills
-
-## Contributing
-
-This is a personal practice repository, but if you spot any bugs or have suggestions for improvements, feel free to open an issue!
+These are my own solutions. I don't guarantee they're the best or most optimal, but they work for me. Feel free to look around.
 
 ---
 
